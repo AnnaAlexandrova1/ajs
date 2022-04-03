@@ -1,4 +1,5 @@
 .idea
+.npmrc
 Thumbs.db*
 .DS_Store*
 HELP.md
